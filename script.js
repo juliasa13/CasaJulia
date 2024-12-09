@@ -42,6 +42,78 @@ const products = [
         price: 900,
         image: "https://i.postimg.cc/QKZD5pRv/mesa.jpg",
         link: "https://mpago.la/1RoDpT7"
+    },
+{
+        id: 7,
+        name: "Talheres",
+        description: "Conjunto de talheres de alta qualidade.",
+        price: 450,
+        image: "https://i.postimg.cc/j58j3mHk/cutlery-377700-1280.jpg",
+        link: "https://mpago.la/1cGm7xN"
+    },
+    {
+        id: 8,
+        name: "Jogo de Toalhas",
+        description: "Toalhas macias e absorventes.",
+        price: 400,
+        image: "https://i.postimg.cc/T14p1FhW/bathroom-1281614-1280.jpg",
+        link: "https://mpago.la/2VHVete"
+    },
+    {
+        id: 9,
+        name: "Mesinha de Centro",
+        description: "Design elegante para a sala.",
+        price: 500,
+        image: "https://i.postimg.cc/s2YQmTHt/living-room-8215143-1280.jpg",
+        link: "https://mpago.la/1kHuoFM"
+    },
+    {
+        id: 10,
+        name: "Smart TV",
+        description: "Alta resolução para momentos de lazer.",
+        price: 1350,
+        image: "https://i.postimg.cc/6q389t6X/tv-627876-1280.jpg",
+        link: "https://mpago.la/14kkSo9"
+    },
+    {
+        id: 11,
+        name: "Conjunto Jogo Americano",
+        description: "Estilo e proteção para sua mesa.",
+        price: 250,
+        image: "https://i.postimg.cc/FK5k0Mpy/dinner-table-4926854-1280.jpg",
+        link: "https://mpago.la/1Ymkwqo"
+    },
+    {
+        id: 12,
+        name: "Faqueiro",
+        description: "Completo com 24 peças em inox.",
+        price: 380,
+        image: "https://i.postimg.cc/R0BqWcCG/nanjing-10297-1280.jpg",
+        link: "https://mpago.la/28JZ3PA"
+    },
+    {
+        id: 13,
+        name: "Mesa Lateral",
+        description: "Compacta e prática para sua sala.",
+        price: 620,
+        image: "https://i.postimg.cc/vHKVZg6S/living-room-table-4037281-1280.jpg",
+        link: "https://mpago.la/2zb6VSX"
+    },
+    {
+        id: 14,
+        name: "Tapete",
+        description: "Grande e aconchegante.",
+        price: 1900,
+        image: "https://i.postimg.cc/RZcZxN1t/furniture-998265-1280.jpg",
+        link: "https://mpago.la/18s6Zq3"
+    },
+    {
+        id: 15,
+        name: "Mesas de Cabeceira",
+        description: "Conjunto de 2 mesas funcionais.",
+        price: 1850,
+        image: "https://i.postimg.cc/Twcbdtrr/in-the-morning-4652076-1280.jpg",
+        link: "https://mpago.la/1YT2wKN"
     }
 ];
 
